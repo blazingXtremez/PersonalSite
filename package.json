@@ -1,0 +1,22 @@
+{
+  "name": "personalsite",
+  "version": "0.0.1",
+  "description": "my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazingXtremez/PersonalSite.git"
+  },
+  "author": "thebriteish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazingXtremez/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/blazingXtremez/PersonalSite#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
